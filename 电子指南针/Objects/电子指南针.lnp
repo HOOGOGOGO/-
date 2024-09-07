@@ -1,0 +1,7 @@
+".\Objects\sys.obj",
+".\Objects\led.obj",
+".\Objects\iic.obj",
+".\Objects\main.obj" 
+TO ".\Objects\电子指南针" 
+PRINT(".\Listings\电子指南针.m51") RAMSIZE(256) 
+DISABLEWARNING (16) 
